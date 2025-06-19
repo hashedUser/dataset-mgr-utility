@@ -1,7 +1,6 @@
-# dataset-mgr-utility
-A lightweight Python CLI utility to automate dataset downloads, organization, and management for ML/DL workflows — starting with Kaggle, built for speed and structure.
+# dsfetch
 
-In typical ML/DL workflows, managing datasets manually—downloading, renaming, organizing into folders—can become tedious and error-prone. This tool automates that process, letting developers focus on experimentation and modeling.
+dsfetch is a lightweight, CLI-first tool designed for machine learning practitioners who want a frictionless way to search, preview, and download datasets from multiple platforms—like Kaggle, Hugging Face, and UCI—without leaving the terminal. With a clean, unified interface and support for platform-specific identifiers, dsfetch streamlines dataset discovery and retrieval, making experimentation faster, reproducible, and less dependent on the browser. Whether you’re prototyping a new model or curating datasets for training, dsfetch gets you the data you need—fast.
 
 ## ⚙️ Core Features (MVP)
 
